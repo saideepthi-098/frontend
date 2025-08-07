@@ -62,9 +62,12 @@ h1{
     
     top:80%;
     left:50%;
-    
-    
-    
+}
+button:hover{
+    background-color: goldenrod;
+}
+button:active{
+    color:green;
 }
 
 
